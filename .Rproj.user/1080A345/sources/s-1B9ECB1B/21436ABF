@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1616803977929.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1257316956",
+    "id" : "21436ABF",
+    "lastKnownWriteTime" : 1616805499,
+    "last_content_update" : 1616805499303,
+    "path" : "~/HW8/Dark_and_stormy.R",
+    "project_path" : "Dark_and_stormy.R",
+    "properties" : {
+        "cursorPosition" : "0,66",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

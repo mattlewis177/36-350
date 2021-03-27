@@ -1,0 +1,17 @@
+"0","if ( require(""devtools"") == FALSE ) {"
+"0","  install.packages(""devtools"",repos=""https://cloud.r-project.org"")"
+"0","  library(devtools)"
+"0","}"
+"2","Loading required package: devtools
+"
+"2","package ‘devtools’ was built under R version 4.0.4"
+"2","Loading required package: usethis
+"
+"2","package ‘usethis’ was built under R version 4.0.4"
+"0","source_url(""https://raw.githubusercontent.com/mattlewis177/36-350/main/Dark_and_stormy.R"")"
+"2","SHA-1 hash of file is d89f7a15d2452727594641ffa9108ad184fe5a59
+"
+"1","[1]"
+"1"," ""It was a dark and stormy night!"""
+"1","
+"

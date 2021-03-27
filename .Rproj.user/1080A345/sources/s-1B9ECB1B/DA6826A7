@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1616789584055.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DA6826A7",
+    "lastKnownWriteTime" : 1616805517,
+    "last_content_update" : 1616805517170,
+    "path" : "~/HW8/HW_08.Rmd",
+    "project_path" : "HW_08.Rmd",
+    "properties" : {
+        "cursorPosition" : "71,19",
+        "scrollLine" : "61"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
